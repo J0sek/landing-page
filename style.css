@@ -37,10 +37,14 @@
 }
 
 .hero-main-left {
-  width: 420px;
+  width: 450px;
 }
 
 .hero-main-title-text {
   font-size: 48px;
   font-weight: bold;
+}
+
+.hero-main-sub-text {
+  font-size: 18px;
 }
