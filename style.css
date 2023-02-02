@@ -9,8 +9,9 @@
   color: #F9FAF8;
   display: flex;
   justify-content: space-between;
-  padding: 0px 60px;
+  padding: 0px 70px;
   align-items: center;
+  height: 70px;
 }
 
 .header-logo {
