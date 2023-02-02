@@ -9,4 +9,6 @@
   color: #F9FAF8;
   display: flex;
   justify-content: space-between;
+  padding: 0px 60px;
+  align-items: center;
 }
