@@ -17,3 +17,10 @@
   font-size: 24px;
   font-weight: 800;
 }
+
+.header-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
